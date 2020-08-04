@@ -1,6 +1,4 @@
 # sudoku-solver
-Backtracking algorithm that solves any Sudoku puzzle. Includes GUI for simple user interface.
-
 Download project folder and run "sudoku-gui.py". 
 
 GUI Controls:
